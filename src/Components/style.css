@@ -126,8 +126,6 @@ body {
   background-color: rgb(247, 243, 226);
 }
 
-/* .temp-info-minmax,
-.weather-extra-info, */
 .two-sided-section:hover{
   transform: scale(1.2); 
 }
